@@ -71,7 +71,7 @@ EOF
 echo "[10/10] Downloading Windows ISO..."
 cd /root
 
-wget -O windows.iso https://software-static.download.prss.microsoft.com/dbazure/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso
+wget -O windows.iso https://software-static.download.prss.microsoft.com/dbazure/20348.169.210806-2348.fe_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso
 
 echo "Mounting ISO..."
 mkdir -p /mnt/iso
